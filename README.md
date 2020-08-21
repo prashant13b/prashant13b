@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi, Prashant 👦
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prashant13b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prsntbrdwj/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant13b&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/prashant13b)  
+
 
 <!--
 **prashant13b/prashant13b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
